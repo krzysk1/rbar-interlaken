@@ -1,0 +1,89 @@
+<[file][][]
+    <[tmsimulator_scenery_place][][]
+        <[string8][type][object]>
+        <[string8][sname][RedBull Interlaken]>
+        <[string8][lname][RedBull Interlaken Air Race 2007]>
+        <[string8][icao][]>
+        <[string8][country][]>
+        <[string8][coordinate_system][lonlat]>
+        <[vector2_float64][position][7.876419 46.671384]>
+        <[float64][height][580]>
+        <[float64][size][5000]>
+        <[vector2_float64][tower_position][0 0]>
+        <[float64][tower_height][0]>
+        <[bool][autoheight][true]>
+        <[string8][autoheight_method][]>
+        <[list_tmsimulator_scenery_object][objects][]
+            <[tmsimulator_scenery_object][element][0]
+                <[string8][type][object]>
+                <[string8][geometry][pylon_red_single_obj]>
+                <[vector3_float64][position][7.877701 46.674725 0]>
+                <[float64][orientation][53]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][1]
+                <[string8][type][object]>
+                <[string8][geometry][pylon_red_single_obj]>
+                <[vector3_float64][position][7.878978 46.675881 0]>
+                <[float64][orientation][233]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][2]
+                <[string8][type][object]>
+                <[string8][geometry][pylon_red_single_obj]>
+                <[vector3_float64][position][7.88032 46.677009 0]>
+                <[float64][orientation][53]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][3]
+                <[string8][type][object]>
+                <[string8][geometry][pylon_red_double_obj]>
+                <[vector3_float64][position][7.874628 46.672902 0]>
+                <[float64][orientation][226]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][4]
+                <[string8][type][object]>
+                <[string8][geometry][pylon_red_quad_obj]>
+                <[vector3_float64][position][7.882394 46.679646 0]>
+                <[float64][orientation][91]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][5]
+                <[string8][type][object]>
+                <[string8][geometry][pylon_blue_double_obj]>
+                <[vector3_float64][position][7.871698 46.67097 0]>
+                <[float64][orientation][206]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][6]
+                <[string8][type][object]>
+                <[string8][geometry][pylon_blue_double_obj]>
+                <[vector3_float64][position][7.874264 46.671473 0]>
+                <[float64][orientation][206]>
+                <[int32][autoheight_override][-1]>
+            >
+            <[tmsimulator_scenery_object][element][7]
+                <[string8][type][object]>
+                <[string8][geometry][pylon_finish_obj]>
+                <[vector3_float64][position][7.876649 46.672355 0]>
+                <[float64][orientation][86]>
+                <[int32][autoheight_override][-1]>
+            >
+        >
+        <[list_tmsimulator_scenery_object_animated][objects_animated][]
+        >
+        <[list_tmsimulator_runway][runways][]
+        >
+        <[list_tmsimulator_helipad][helipads][]
+        >
+        <[list_tmsimulator_startposition][start_positions][]
+        >
+        <[list_tmsimulator_parking_position][parking_positions][]
+        >
+        <[list_tmsimulator_view_position][view_positions][]
+        >
+        <[list_tmsimulator_scenery_cultivation][cultivation_files][]
+        >
+    >
+>
